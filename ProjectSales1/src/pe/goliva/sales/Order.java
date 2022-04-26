@@ -7,5 +7,5 @@ package pe.goliva.sales;
  * 
  */
 public class Order {
-
+	
 }
