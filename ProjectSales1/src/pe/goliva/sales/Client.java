@@ -11,7 +11,7 @@ public class Client {
 	private String nameClient;
 	private static int countClient;
 
-	private Client() {
+	public Client() {
 		super();
 		idClient = ++ countClient;
 	}
